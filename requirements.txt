@@ -1,0 +1,6 @@
+langchain
+pypdf
+pdfminer
+python-dotenv
+langchain-community
+langchain-core
